@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="vamosComecar">Vamos começar</string>
+    <string name="seuNome">Qual o seu nome?</string>
+    <string name="salvar">SALVAR</string>
+    <string name="novaFrase">Nova Frase</string>
+    <string name="frase">Frase</string>
+    <string name="textBoaVinda">Olá</string>
+</resources>
